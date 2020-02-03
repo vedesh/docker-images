@@ -1,4 +1,4 @@
-# Oracle WebCenter Sites on Docker 12
+# Oracle WebCenter Sites on Docker
 
 To create web content management solutions, developers need a lightweight environment. Docker images need minimum resources, thereby allowing developers to quickly create development environments.
 
